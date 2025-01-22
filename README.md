@@ -35,13 +35,13 @@ _Caption: User-submitted quotes._
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/random-quote-generator.git
+git clone https://github.com/your-username/howsyourday.git
 ```
 
 2. Navigate to the project directory:
 
 ```sh
-cd random-quote-generator
+cd howsyourday
 ```
 
 3. Install dependencies:
