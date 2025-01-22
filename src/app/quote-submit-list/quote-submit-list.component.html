@@ -1,0 +1,11 @@
+<app-quote-submission (quoteSubmitted)="onQuoteSubmitted($event)"></app-quote-submission>
+
+<div class="centered-container">
+    <h2>User Submissions</h2>
+    <ul>
+        <li *ngFor="let submission of userSubmissions">
+            <p>{{ submission.quote }}</p>
+            <p>- {{ submission.author }}</p>
+        </li>
+    </ul>
+</div>

@@ -1,0 +1,14 @@
+<div class="centered-container">
+  <h2>Submit Your Favorite Quote</h2>
+  <form (ngSubmit)="submitQuote()">
+    <div>
+      <label for="quoteInput">Quote: </label>
+      <textarea id="quoteInput" name="quote" [(ngModel)]="newQuote" required></textarea>
+    </div>
+    <div>
+      <label for="authorInput">Author: </label>
+      <input type="text" id="authorInput" name="author" [(ngModel)]="newAuthor" required>
+    </div>
+    <button type="submit" class="btn btn-danger">submit</button>
+  </form>
+</div>
