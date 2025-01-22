@@ -19,15 +19,15 @@ This is a Progressive Web Application (PWA) named «how's your day» that genera
 ## Visuals
 Here are some screenshots demonstrating the user interface and features of the Random Quote Generator PWA:
 
-![Homepage displaying a random quote.](/uploads/cac94216c70634cf88e16979b4e13e2e/homepage.png)
+<img src="https://github.com/user-attachments/assets/b184e890-4b19-44f1-8569-03f27231c6bf" width=30% height=30%>
 
 _Caption: Homepage displaying a random quote._
 
-![Quote submission form.](/uploads/d1a83442f7978bb7bf02d9b67765b9be/submitform.png)
+<img src="https://github.com/user-attachments/assets/4dd7c46a-17ee-46bd-95b0-928e5ccb2b8a" width=30% height=30%>
 
 _Caption: Quote submission form._
 
-![User-submitted quotes.](/uploads/4d1ee27025f0c31ef44db975e73fbd49/submitlist.png)
+<img src="https://github.com/user-attachments/assets/5bbea080-0a74-4ff8-ba9d-1d3ca8ac6c7b" width=30% height=30%>
 
 _Caption: User-submitted quotes._
 
